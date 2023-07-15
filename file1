@@ -1,0 +1,20 @@
+
+<html>
+<head>
+<style>
+h1{color:red}
+h3{color:blue}
+</style>
+</head>
+<body>
+<h1>This is my front page</h1>
+<h2>new skill learning</h3>
+<h1>Web development related terms</h1>
+<ol>
+<LI>HTML</LI>
+<LI>CSS</LI>
+<img src="E:\User Data\Desktop\Nibha sah\web dev.jpg">
+<a href="https://register.com.np/"target _blank title this takes u to domain registration>
+</a>
+</body>
+</html>
